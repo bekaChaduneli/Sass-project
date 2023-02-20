@@ -1,0 +1,15 @@
+@use '../util' as u;
+
+h1 {
+    font-weight: 700;
+    //font-size: clamp(u.rem(24), u.rem(16) + 2vw, u.rem(40));
+
+}
+
+h2 {
+    font-weight:400;
+}
+
+a, a:visited, a:active {
+    text-decoration: none;
+}
