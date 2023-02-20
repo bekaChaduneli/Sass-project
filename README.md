@@ -15,7 +15,7 @@
 
 ### Links
 
-- Live Site URL: [Live site](https://bekaChaduneli.github.io/sass-project)
+- Live Site URL: [Live site](https://bekaChaduneli.github.io/Sass-project)
 - Solution URL: [Solution URL](https://github.com/bekaChaduneli/sass-project)
 
 ### Built with
