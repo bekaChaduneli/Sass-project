@@ -19,14 +19,14 @@ body {
     flex-wrap: wrap;
     overflow-x: hidden;
     justify-content: row;
-    background-image: url("/assets/bg-main-mobile.png");
+    background-image: url("../assets/bg-main-mobile.png");
     background-repeat: no-repeat;
     background-position: top -240px right -200px
 }
 
 @media(min-width: 48em) {
     body {
-        background-image: url("/assets/bg-main-tablet.png");
+        background-image: url("../assets/bg-main-tablet.png");
         background-repeat: no-repeat;
         background-position: top -240px right -100px
     }
@@ -34,7 +34,7 @@ body {
 
 @media(min-width: 90em) {
     body {
-        background-image: url("/assets/bg-main-desktop.png");
+        background-image: url("../assets/bg-main-desktop.png");
         background-repeat: no-repeat;
         background-position: top -240px right -200px
     }
